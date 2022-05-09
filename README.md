@@ -24,7 +24,7 @@
 <br/>
 
 <p align="left">
-  💌 Entre em contato comigo!: ⤵️
+  💌 Entre em contato comigo! ⤵️
 </p>
 <p align="left">
   <a href="mailto:mathsilvac@hotmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21" alt="Gmail">
