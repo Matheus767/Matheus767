@@ -26,7 +26,6 @@
 <p align="left">
   💌 Entre em contato comigo!: ⤵️
 </p>
-<br>
 <p align="left">
   <a href="mailto:mathsilvac@hotmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mathsilvac@hotmail.com" /></a>
