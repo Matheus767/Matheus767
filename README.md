@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/62734383/167486779-6d18c474-879d-4303-92db-e32c968eb1a5.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
-![image-removebg-preview (3)](https://user-images.githubusercontent.com/62734383/167486779-6d18c474-879d-4303-92db-e32c968eb1a5.png)
+
 
 <p align="left"> 
   :wave: Olá! Meu nome é Matheus Santos Castiço e atualmente atuo e/ou procuro atuar na área de<strong> Desenvolvimento</strong>.<br>
