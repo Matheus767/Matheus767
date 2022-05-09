@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/vetores-gratis/retrato-de-programador-trabalhando-com-pc_23-2148222500.jpg?t=st=1652114567~exp=1652115167~hmac=aff1e78eb0198b18a575530e94072613d5a47b35b9930e52502da67f204d7253&w=740" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
+<img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
 
 
 **Aplicações e Dados**
