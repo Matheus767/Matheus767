@@ -1,7 +1,7 @@
 <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
 
 <p align="left"> 
-  Olá! Meu nome é Matheus Santos Castiço e atualmente atuo e/ou procuro atuar na área de<strong>Desenvolvimento</strong>.<br>
+  :wave: Olá! Meu nome é Matheus Santos Castiço e atualmente atuo e/ou procuro atuar na área de<strong> Desenvolvimento</strong>.<br>
   Curso Análise e Desenvolvimento de Sistemas na instituição de ensino <a href="https://www.eniac.com.br/">ENIAC</a>, além disso trabalho como desenvolvedor também no ENIAC.
 </p>
 
