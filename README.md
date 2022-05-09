@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  <a href="mathsilvac@hotmail.com" alt="Gmail">
+  <a href="https://criarmeulink.com.br/u/1652116413" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mathsilvac@hotmail.com" /></a>
 
   <a href="https://br.linkedin.com/in/matheussantoscastico" alt="Linkedin">
