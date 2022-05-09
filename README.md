@@ -22,7 +22,7 @@
 
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Matheus767&theme=default&show_icons=true)](https://github.com/Matheus767/)
+[![card](https://github-readme-stats.vercel.app/api?username=Matheus767&theme=highcontrast&show_icons=true)](https://github.com/Matheus767/)
 
 <br/>
 
