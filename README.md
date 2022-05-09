@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
+<img src="https://thumbs.dreamstime.com/b/programmer-coder-web-developer-software-engineer-sitting-desk-working-computer-programming-workplace-work-127386997.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
 
 
 **Aplicações e Dados**
