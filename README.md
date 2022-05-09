@@ -17,9 +17,7 @@
 
 <br/>
 
-<a href="https://github.com/Matheus767">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus767&theme=dracula&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=Matheus767&theme=default&show_icons=true)](https://github.com/Matheus767/)
 
 <br/>
 
