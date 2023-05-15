@@ -3,7 +3,7 @@
 
 <p align="left"> 
   :wave: Olá! Meu nome é Matheus Santos Castiço e atualmente atuo e/ou procuro atuar na área de<strong> Desenvolvimento</strong>.<br>
-  Curso Análise e Desenvolvimento de Sistemas na instituição de ensino <a href="https://www.eniac.com.br/">ENIAC</a>, além disso trabalho como desenvolvedor também no ENIAC.
+  Curso Análise e Desenvolvimento de Sistemas na instituição de ensino <a href="https://www.eniac.com.br/">ENIAC</a>, além disso trabalho como Analista Programador Jr. na Simbi.
 </p>
 
 **Aplicações e Dados**
@@ -14,6 +14,8 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
 
