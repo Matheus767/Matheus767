@@ -2,8 +2,8 @@
 
 
 <p align="left"> 
-  :wave: Olá! Meu nome é Matheus Santos Castiço e atualmente atuo e/ou procuro atuar na área de<strong> Desenvolvimento</strong>.<br>
-  Curso Análise e Desenvolvimento de Sistemas na instituição de ensino <a href="https://www.eniac.com.br/">ENIAC</a>, além disso trabalho como Analista Programador Jr. na <a href="https://simbi.social">Simbi Social</a>.
+  :wave: Olá! Meu nome é Matheus Santos Castiço e atualmente atuo na área de<strong> Desenvolvimento</strong>.<br>
+  Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino <a href="https://www.eniac.com.br/">ENIAC</a>, além disso trabalho como Analista Programador Jr. na <a href="https://simbi.social">Simbi Social</a>.
 </p>
 
 **Aplicações e Dados**
