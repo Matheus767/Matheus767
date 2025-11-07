@@ -1,7 +1,7 @@
 <!-- Adding language toggle badges at the top -->
 <div align="right">
   
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.ptbrmd)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
 </div>
