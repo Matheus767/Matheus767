@@ -1,44 +1,87 @@
-<img src="https://user-images.githubusercontent.com/62734383/167486779-6d18c474-879d-4303-92db-e32c968eb1a5.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Matheus767">
+<div align="center">
 
+# 👋 Olá! Meu nome é Matheus Santos Castiço
 
-<p align="left"> 
-  :wave: Olá! Meu nome é Matheus Santos Castiço e atualmente atuo na área de<strong> Desenvolvimento</strong>.<br>
-  Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino <a href="https://www.eniac.com.br/">ENIAC</a>, além disso trabalho como Analista Programador Jr. na <a href="https://simbi.social">Simbi Social</a>.
-</p>
+### Desenvolvedor Full Stack
 
-**Aplicações e Dados**
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheussantoscastico)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mathsilvac@hotmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21)
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+</div>
 
-**Ferramentas de Desenvolvimento**
+---
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🙋‍♂️ Sobre Mim
 
+Atualmente atuo na área de **Desenvolvimento**. Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino [ENIAC](https://www.eniac.com.br/), além disso trabalho como Analista de Sistemas na [Simbi Social](https://simbi.social).
 
-<br/>
+---
 
-[![card](https://github-readme-stats.vercel.app/api?username=Matheus767&theme=highcontrast&show_icons=true)](https://github.com/Matheus767/)
+## 🛠️ Aplicações e Dados
 
-<br/>
+<div>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</div>
 
-<p align="left">
-  💌 Entre em contato comigo! ⤵️
-</p>
-<p align="left">
-  <a href="mailto:mathsilvac@hotmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mathsilvac@hotmail.com" /></a>
+---
 
-  <a href="https://br.linkedin.com/in/matheussantoscastico" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/matheussantoscastico" /></a>
+## 🔧 Ferramentas de Desenvolvimento
 
+<div>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
 
-</p>  
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus767&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus767&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🏆 Princípios que Sigo: SOLID
+
+Como desenvolvedor, sigo os princípios **SOLID** para escrever código limpo, manutenível e escalável:
+
+- **S** - Single Responsibility Principle: Cada classe tem uma única responsabilidade
+- **O** - Open/Closed Principle: Aberto para extensão, fechado para modificação
+- **L** - Liskov Substitution Principle: Substituição de objetos sem quebrar o sistema
+- **I** - Interface Segregation Principle: Interfaces específicas e enxutas
+- **D** - Dependency Inversion Principle: Depender de abstrações, não de implementações
+
+---
+
+## 💌 Entre em Contato
+
+<div>
+  
+  [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheussantoscastico)
+  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mathsilvac@hotmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21)
+  
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "*Código limpo não é escrito seguindo regras. É escrito com amor.*" - Uncle Bob
+
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=matheus767&color=blue&style=flat-square)
+  
+</div>
