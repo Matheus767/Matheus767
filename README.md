@@ -1,3 +1,13 @@
+<!-- Creating Portuguese version with language toggle -->
+<div align="right">
+  
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+
+</div>
+
+---
+
 <div align="center">
 
 # 👋 Olá! Meu nome é Matheus Santos Castiço
@@ -13,7 +23,7 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Atualmente atuo na área de **Desenvolvimento**. Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino [ENIAC](https://www.eniac.com.br/), além disso trabalho como Analista de Sistemas na [Simbi Social](https://simbi.social).
+Atualmente atuo na área de **Desenvolvimento**. Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino [ENIAC](https://www.eniac.com.br/), além disso trabalho como Analista Programador Jr. na [Simbi Social](https://simbi.social).
 
 ---
 
