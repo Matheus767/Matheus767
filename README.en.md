@@ -52,15 +52,6 @@ I currently work in the **Development** area. I graduated in Systems Analysis an
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus767&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus767&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🏆 Principles I Follow: SOLID
 
 As a developer, I follow the **SOLID** principles to write clean, maintainable, and scalable code:
@@ -78,7 +69,7 @@ As a developer, I follow the **SOLID** principles to write clean, maintainable, 
 <div>
   
   [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheussantoscastico)
-  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mathsilvac@hotmail.com?Subject=I%20visited%20your%20GitHub%20profile!)
+  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:matheuscastico@matheus.dev?Subject=I%20visited%20your%20GitHub%20profile!)
   
 </div>
 
