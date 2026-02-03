@@ -1,8 +1,8 @@
 <!-- Adding language toggle badges at the top -->
 <div align="right">
   
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](README.en.md)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 👋 Hello! My name is Matheus Santos Castiço
 
-### Full Stack Developer | Junior Programmer Analyst
+### Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheussantoscastico)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mathsilvac@hotmail.com?Subject=I%20visited%20your%20GitHub%20profile!)
