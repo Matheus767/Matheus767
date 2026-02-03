@@ -52,15 +52,6 @@ Atualmente atuo na área de **Desenvolvimento**. Me formei em Análise e Desenvo
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus767&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus767&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🏆 Princípios que Sigo: SOLID
 
 Como desenvolvedor, sigo os princípios **SOLID** para escrever código limpo, manutenível e escalável:
@@ -86,7 +77,7 @@ Como desenvolvedor, sigo os princípios **SOLID** para escrever código limpo, m
 
 <div align="center">
 
-### ⚡ "*Código limpo não é escrito seguindo regras. É escrito com amor.*" - Uncle Bob
+### ⚡ "*Código limpo não é escrito seguindo regras. É escrito com amor.*" - Tio Bob
 
 </div>
 
