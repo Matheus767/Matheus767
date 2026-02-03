@@ -69,7 +69,7 @@ Como desenvolvedor, sigo os princípios **SOLID** para escrever código limpo, m
 <div>
   
   [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/matheussantoscastico)
-  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:mathsilvac@hotmail.com?Subject=Visitei%20seu%20perfil%20no%20GitHub%21)
+  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:matheus@matheuscastico.dev?Subject=Visitei%20seu%20perfil%20no%20GitHub%21)
   
 </div>
 
