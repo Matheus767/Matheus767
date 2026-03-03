@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
-I currently work in the **Development** area. I graduated in Systems Analysis and Development from [ENIAC](https://www.eniac.com.br/), and I work as a Junior Programmer Analyst at [Simbi Social](https://simbi.social).
+I currently work in the **Development** area. I graduated in Systems Analysis and Development from [ENIAC](https://www.eniac.com.br/), and I work as a Software Engineer at [Simbi Social](https://simbi.social).
 
 ---
 
