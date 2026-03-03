@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Atualmente atuo na área de **Desenvolvimento**. Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino [ENIAC](https://www.eniac.com.br/), além disso trabalho como Analista Programador Jr. na [Simbi Social](https://simbi.social).
+Atualmente atuo na área de **Desenvolvimento**. Me formei em Análise e Desenvolvimento de Sistemas na instituição de ensino [ENIAC](https://www.eniac.com.br/), além disso trabalho como Engenheiro de Software na [Simbi Social](https://simbi.social).
 
 ---
 
